@@ -1,0 +1,5 @@
+beautifulsoup4==4.11.1
+nltk==3.7
+PyStemmer==2.0.1
+tqdm==4.64.0
+lxml==4.8.0
